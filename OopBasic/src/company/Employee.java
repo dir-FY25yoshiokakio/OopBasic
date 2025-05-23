@@ -4,7 +4,7 @@ public class Employee {
 
  // フィールド
     String name;
-     String department; 
+    String department; 
     String position; 
     int employeeId; 
     // コンストラクター
